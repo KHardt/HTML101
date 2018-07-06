@@ -58,18 +58,20 @@ h1 {
     background-color: antiquewhite;
 }
 
-.flex-item {
+/*.flex-item {
     background-color: hotpink;
     width: 30%;
     margin: 1em;
+    height: auto;
     text-align: center;
-}
+} */
 
 .section-img {
     margin: 0, auto;
     width: 100%;
-    height: auto;
+    height: 75%
 }
+
 
 main {
     flex: 2;
